@@ -13,22 +13,17 @@
   </a>
 </p>
 
-I am a Software developer, my core values are a passion for contributing value and seeing results from my efforts. I also enjoy writing about the things I love. You can check out my Medium articles at https://medium.com/@ttebify and I'm also a writer for freeCodeCamp at https://freecodecamp.org/news/author/ttebify/.
+My core values are a passion for contributing value and seeing results from my efforts. I also enjoy writing about the things I love. You can check out my Medium articles at https://medium.com/@ttebify and I'm also a writer for freeCodeCamp at https://freecodecamp.org/news/author/ttebify/.
 
-<h1 align="left">Technologies</h1>
+<h2 align="center">Skills </h2>
 
-
-<p align="left">
-    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=PRISMA&color=bbb111&style=plastic&logo=prisma"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBPACK&color=bbb111&style=plastic&logo=webpack"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,laravel,prisma,git,webpack,wordpress,js" />
+  </a>
 </p>
 
-<h2 align="left">My Github Profile Trophy</h2>
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ttebify&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=ttebify&theme=tokyonight&show_icons=true">
+</p>
+
