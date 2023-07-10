@@ -19,7 +19,7 @@ My core values are a passion for contributing value and seeing results from my e
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,react,laravel,prisma,git,webpack,wordpress,js" />
+    <img src="https://skillicons.dev/icons?i=typescript,react,laravel,prisma,git,webpack,wordpress,js,python" />
   </a>
 </p>
 
