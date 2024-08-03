@@ -13,7 +13,7 @@
   </a>
 </p>
 
-My core values are a passion for contributing value and seeing results from my efforts. I also enjoy writing about the things I love. You can check out my Medium articles at https://medium.com/@ttebify and I'm also a writer for freeCodeCamp at https://freecodecamp.org/news/author/ttebify/.
+I love contributing value and seeing results from my efforts and I enjoy writing about the things I love. @Medium - https://medium.com/@ttebify.
 
 <h2 align="center">Skills </h2>
 
